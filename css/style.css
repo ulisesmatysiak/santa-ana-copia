@@ -25,9 +25,9 @@
 .datos1 .datos2 .datos3 {
   margin: 0px 0px 10px 0px; }
 
-.fotoUno .fotoDos .fotoTres .fotoCuatro .fotoCinco .fotoGaluno .fotoGaldos .fotoGaltres .fotoGalcuatro .fotoGalcinco .fotoGalseis .fotoGalsiete .fotoGalocho .fotoGalnueve .fotoGaldiez .fotoGalonce .fotoGaldoce .fotoGaltrece .fotoGalcatorce .fotoGalquince .fotoGaldieciseis .fotoNoscero .fotoNosuno .fotoNosdos .fotoNostres .fotoNoscuatro .fotoNoscinco .fotoNosseis .fotoNossiete .fotoNosocho .fotoNosnueve .fotoNosdiez {
+.medidasFoto {
   width: 20%;
   margin: 1px 1px 1px 1px; }
 
-.fotoWsp .fotoInsta .fotoFace {
+.fotoRedes {
   width: 5%; }
