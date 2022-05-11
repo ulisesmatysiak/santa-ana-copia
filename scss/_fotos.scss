@@ -1,7 +1,7 @@
 .datos1{
     .datos2{
         .datos3{
-            $datos-margin
+            margin: $datos-margin ;
         }
     }
 }
@@ -38,8 +38,8 @@
                                                                                                                              .fotoNosocho {
                                                                                                                                  .fotoNosnueve {
                                                                                                                                      .fotoNosdiez {
-                                                                                                                                         $fotos-margin
-                                                                                                                                         $fotos-width
+                                                                                                                                         width: $fotos-width
+                                                                                                                                         margin: $fotos-margin;
                                                                                                                                       }
                                                                                                                                     }
                                                                                                                                 }
@@ -75,7 +75,7 @@
 .fotoWsp {
     .fotoInsta {
         .fotoFace {
-            $fotos-redes-width
+            width:$fotos-redes-width
         }
     }
 }
