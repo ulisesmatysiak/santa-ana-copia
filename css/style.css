@@ -1,0 +1,33 @@
+@charset "UTF-8";
+* {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; }
+  * .parrafo-grande {
+    font-size: 80px; }
+    * .parrafo-grande h2 {
+      font-style: oblique; }
+      * .parrafo-grande h2 ul {
+        font-weight: lighter;
+        list-style: none; }
+        * .parrafo-grande h2 ul .lista {
+          font-weight: bold; }
+          * .parrafo-grande h2 ul .lista .titulo {
+            font-size: 80px;
+            font-weight: bolder; }
+            * .parrafo-grande h2 ul .lista .titulo .subtitulo {
+              text-align: right;
+              text-decoration: underline;
+              font-style: oblique; }
+              * .parrafo-grande h2 ul .lista .titulo .subtitulo .texto {
+                font-size: 30px; }
+                * .parrafo-grande h2 ul .lista .titulo .subtitulo .texto .descripción {
+                  text-align: center; }
+
+.datos1 .datos2 .datos3 {
+  margin: 0px 0px 10px 0px; }
+
+.fotoUno .fotoDos .fotoTres .fotoCuatro .fotoCinco .fotoGaluno .fotoGaldos .fotoGaltres .fotoGalcuatro .fotoGalcinco .fotoGalseis .fotoGalsiete .fotoGalocho .fotoGalnueve .fotoGaldiez .fotoGalonce .fotoGaldoce .fotoGaltrece .fotoGalcatorce .fotoGalquince .fotoGaldieciseis .fotoNoscero .fotoNosuno .fotoNosdos .fotoNostres .fotoNoscuatro .fotoNoscinco .fotoNosseis .fotoNossiete .fotoNosocho .fotoNosnueve .fotoNosdiez {
+  width: 20%;
+  margin: 1px 1px 1px 1px; }
+
+.fotoWsp .fotoInsta .fotoFace {
+  width: 5%; }
