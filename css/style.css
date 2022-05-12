@@ -23,6 +23,11 @@ ul {
 .texto {
   font-size: 30px; }
 
+.pie {
+  text-align: center;
+  text-decoration: solid;
+  font-weight: bolder; }
+
 .medidasDatos {
   margin: 0px 0px 10px 0px; }
 
@@ -84,7 +89,13 @@ main {
   padding-top: 100px; }
 
 footer {
-  padding-top: 1%; }
+  padding-top: 10%; }
 
 .lista {
   padding-top: 8%; }
+
+.fotosGaleria {
+  padding: 2%; }
+
+.fotosNosotros {
+  padding: 2% 0; }
