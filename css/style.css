@@ -76,3 +76,9 @@ main {
 
 footer {
   background-color: white; }
+
+header {
+  padding-top: 20%; }
+
+main {
+  padding-top: 100px; }
