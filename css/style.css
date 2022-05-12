@@ -52,3 +52,12 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center; }
+
+header {
+  background-color: black; }
+
+main {
+  background-color: white; }
+
+footer {
+  background-color: white; }
