@@ -28,6 +28,9 @@
 .fotoRedes {
   width: 5%; }
 
+.medidasFotoNos {
+  width: 20%; }
+
 .fotosInicio {
   display: flex;
   flex-direction: row;
@@ -41,8 +44,8 @@
 
 .fotosUbi {
   display: flex;
-  flex-direction: column;
-  justify-content: space-between; }
+  flex-direction: row-reverse;
+  justify-content: center; }
 
 .fotosGaleria {
   display: flex;

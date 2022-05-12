@@ -14,9 +14,8 @@
 }
 
 .fotosUbi { display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-
+    flex-direction: row-reverse;
+    justify-content: center;
 }
 
 .fotosGaleria {
