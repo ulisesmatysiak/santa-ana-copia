@@ -28,8 +28,9 @@
 .fotoRedes {
   width: 5%; }
 
-.fotosInicio .galeria {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center; }
+  .fotosInicio .galeria {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center; }
+
