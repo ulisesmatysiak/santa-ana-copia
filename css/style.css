@@ -28,7 +28,7 @@
 .fotoRedes {
   width: 5%; }
 
-.galeria {
+.fotosInicio .galeria {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
