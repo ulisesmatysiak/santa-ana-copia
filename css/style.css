@@ -28,9 +28,24 @@
 .fotoRedes {
   width: 5%; }
 
-  .fotosInicio .galeria {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center; }
+.fotosInicio {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
 
+.fotosNosotros {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+
+.fotosUbi {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; }
+
+.fotosGaleria {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center; }
